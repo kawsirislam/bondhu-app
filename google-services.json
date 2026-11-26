@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067079915779",
+    "project_id": "startup-notify-8b116",
+    "storage_bucket": "startup-notify-8b116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067079915779:android:64b538198d0ec6e91ab136",
+        "android_client_info": {
+          "package_name": "com.bondhuai.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvdzwUYhHGcu7CO6YOgABeKo6vN4OEKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
